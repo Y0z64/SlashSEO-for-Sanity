@@ -1,8 +1,10 @@
 ## Installation
-1. Run 'npm install sanity-seo-checker-plugin' in your terminal.
+1. Run the following npm in your terminal:
+```
+npm install sanity-seo-checker-plugin
+```
 
 ## Configuration
-
 2. Go to your sanity.config.js file and add the following code:
 
 
@@ -76,7 +78,10 @@ schema: {
 
 4. Go to src/config.example.js and rename it to config.js.
 5. Add your API key to the config.js file (get your API key at https://slashseo.com)
-6. Run 'npm run dev' in your terminal.
+6. Save all files and run the following npm:
+```
+npm run dev
+```
 
 ## Usage
 
