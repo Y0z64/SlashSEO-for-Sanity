@@ -75,7 +75,7 @@ schema: {
 ```
 
 4. Go to src/config.example.js and rename it to config.js.
-5. Add your API key to the config.js file.
+5. Add your API key to the config.js file (get your API key at https://slashseo.com)
 6. Run 'npm run dev' in your terminal.
 
 ## Usage
