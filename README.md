@@ -1,3 +1,13 @@
+## Introduction
+SlashSEO's SEO Checker for Sanity is the ideal way to optimize your posts right within your own environment. 
+
+It checks your keyword in the content, slug, title, and does checks for number of words and more.
+
+Installation takes about 3 minutes or so max. Below you will find a demo, installation instructions and more. 
+
+## Demo
+![](https://github.com/FHW3E/SlashSEO-for-Sanity/blob/main/SlashSEO%20SEO%20Checker%20Demo.gif)
+
 ## Installation
 1. Run the following npm in your terminal:
 ```
