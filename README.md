@@ -7,6 +7,7 @@ Installation takes about 3 minutes or so max. Below you will find a demo, instal
 
 ## Demo
 ![](https://github.com/FHW3E/SlashSEO-for-Sanity/blob/main/SlashSEO%20SEO%20Checker%20Demo.gif)
+You can watch a [20-second demo video in this YouTube video](https://youtu.be/LtMPb3rR7_M)
 
 ## Installation
 1. Run the following npm in your terminal:
