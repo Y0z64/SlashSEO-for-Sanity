@@ -12,7 +12,7 @@ You can watch a [20-second demo video in this YouTube video](https://youtu.be/Lt
 ## Installation
 1. Run the following npm in your terminal:
 ```
-npm install sanity-seo-checker-tool
+npm install sanity-plugin-seo-tool
 ```
 
 ## Configuration
